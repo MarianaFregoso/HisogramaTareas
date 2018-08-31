@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogramasrtareas", "Histogramasrtareas\Histogramasrtareas.csproj", "{EEAFEC46-B46C-4673-92A2-FADC2FF871AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEAFEC46-B46C-4673-92A2-FADC2FF871AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAFEC46-B46C-4673-92A2-FADC2FF871AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAFEC46-B46C-4673-92A2-FADC2FF871AD}.Debug|x64.ActiveCfg = Debug|x64
+		{EEAFEC46-B46C-4673-92A2-FADC2FF871AD}.Debug|x64.Build.0 = Debug|x64
+		{EEAFEC46-B46C-4673-92A2-FADC2FF871AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAFEC46-B46C-4673-92A2-FADC2FF871AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEAFEC46-B46C-4673-92A2-FADC2FF871AD}.Release|x64.ActiveCfg = Release|x64
+		{EEAFEC46-B46C-4673-92A2-FADC2FF871AD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
